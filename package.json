@@ -1,0 +1,15 @@
+{
+  "name": "get-google-tracking-analytics",
+  "version": "1.0.6",
+  "description": "Get the Google Analytics tracking code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Dom Farnham",
+    "email": "dom@jscodebook.com",
+    "url": "http://jscodebook.com"
+  },
+  "license": "ISC"
+}
